@@ -1,36 +1,70 @@
+
+<div align="center">
+
 # Bhukya Saida
 
 ### Assistant Professor | Computer Science & Engineering
 
-Welcome to my GitHub profile! I am an Assistant Professor in Computer Science and Engineering, with experience in teaching, academic development, and exploring emerging technologies.
+**Teaching · Technology · Research · Innovation**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/bhukya-saida)
+[![Computer Science](https://img.shields.io/badge/Computer-Science-0078D4?style=for-the-badge)](https://github.com/bhukya-saida)
+[![Cybersecurity](https://img.shields.io/badge/Cloud-Cybersecurity-00599C?style=for-the-badge&logo=icloud)](https://github.com/bhukya-saida)
+
+</div>
 
 ---
 
 ## 👨‍🏫 About Me
 
+I am an Assistant Professor in Computer Science and Engineering with experience in teaching and academic development.
+
+I am interested in emerging technologies, particularly Cloud Cybersecurity and AI-driven security systems.
+
 - 🎓 Ph.D. Registered Candidate at SR University
 - 👨‍🏫 Assistant Professor at Sphoorthy Engineering College
 - 💻 Academic background in Computer Science and Engineering
-- 🔐 Research interests in Cloud Cybersecurity and AI-driven security systems
-- 📚 Passionate about teaching, learning, and sharing technical knowledge
+- 🔐 Interested in Cloud Cybersecurity and AI-driven security systems
+- 📚 Passionate about teaching and sharing technical knowledge
+
+---
 
 ## 🎓 Education
 
-| Qualification | Institution | Year |
-|---|---|---|
-| Ph.D. (Registered) | SR University | Pursuing |
-| M.Tech (Computer Science) | Sreedattha Institute of Engineering and Science | 2014 |
-| B.Tech (Computer Science) | Hasvita Institute of Engineering and Technology | 2012 |
+| Qualification | Institution | Year | Percentage |
+|---|---|---|---|
+| Ph.D. (Registered) | SR University | Pursuing | — |
+| M.Tech (Computer Science) | Sreedattha Institute of Engineering and Science | 2014 | 67% |
+| B.Tech (Computer Science) | Hasvita Institute of Engineering and Technology | 2012 | 58% |
+
+---
 
 ## 💼 Teaching Experience
 
 **Sphoorthy Engineering College**
-- Assistant Professor
-- August 2024 – Present
+- Designation: Assistant Professor
+- Duration: August 2024 – Present
 
 **KPRIT College**
-- Assistant Professor
-- 2015 – June 2024
+- Designation: Assistant Professor
+- Duration: 2015 – June 2024
+
+---
+
+## 💻 Technical Skills
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Database](https://img.shields.io/badge/DBMS-6C3483?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
 
 ## 📚 Teaching Subjects
 
@@ -46,19 +80,17 @@ Welcome to my GitHub profile! I am an Assistant Professor in Computer Science an
 - Database Management Systems
 - Knowledge Representation and Reasoning
 
-## 💻 Technical Skills
+---
 
-- **Programming Languages:** C, C++
-- **Database Technologies:** DBMS, SQL
-- **Web Technologies:** HTML
-- **Operating Systems:** Windows
+## 🔬 Patent Details
 
-## 🔬 Patent Work
+**1. AI-Driven Incident Response Framework for Cloud Cybersecurity**
 
-1. AI-Driven Incident Response Framework for Cloud Cybersecurity
-2. Real-Time Cloud Incident Response Using Machine Learning for Enhanced Threat Detection and Malware Analysis
+**2. Real-Time Cloud Incident Response Using Machine Learning for Enhanced Threat Detection and Malware Analysis**
 
-## 🌱 Areas of Interest
+---
+
+## 🌐 Areas of Interest
 
 - Cloud Cybersecurity
 - Artificial Intelligence
@@ -68,11 +100,18 @@ Welcome to my GitHub profile! I am an Assistant Professor in Computer Science an
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact & Institution
 
-- **Email:** bhukyasaidanaik@gmail.com
-- **Institution:** Sphoorthy Engineering College
+**Email:** bhukyasaidanaik@gmail.com
+
+**Institution:** Sphoorthy Engineering College
 
 ---
 
-*Thank you for visiting my GitHub profile!*
+<div align="center">
+
+### Thank you for visiting my profile!
+
+*Keep Learning · Keep Teaching · Keep Innovating*
+
+</div>
