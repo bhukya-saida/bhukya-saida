@@ -1,6 +1,8 @@
  <div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="Computer Science and Engineering - Learn Teach Innovate" />
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Computer Science and Engineering Banner"/>
+</p>
 
 # Bhukya Saida
 
