@@ -1,7 +1,7 @@
  <div align="center">
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Computer Science and Engineering Banner"/>
+  <img src="./profile-banner.png" width="100%" alt="Computer Science and Engineering Banner"/>
 </p>
 
 # Bhukya Saida
