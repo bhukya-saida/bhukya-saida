@@ -1,5 +1,6 @@
+ <div align="center">
 
-<div align="center">
+<img src="./profile-banner.png" width="100%" alt="Computer Science and Engineering - Learn Teach Innovate" />
 
 # Bhukya Saida
 
@@ -7,9 +8,10 @@
 
 **Teaching · Technology · Research · Innovation**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/bhukya-saida)
-[![Computer Science](https://img.shields.io/badge/Computer-Science-0078D4?style=for-the-badge)](https://github.com/bhukya-saida)
-[![Cybersecurity](https://img.shields.io/badge/Cloud-Cybersecurity-00599C?style=for-the-badge&logo=icloud)](https://github.com/bhukya-saida)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -19,20 +21,20 @@
 
 I am an Assistant Professor in Computer Science and Engineering with experience in teaching and academic development.
 
-I am interested in emerging technologies, particularly Cloud Cybersecurity and AI-driven security systems.
+My academic interests include emerging technologies, computer science, and cybersecurity-related applications.
 
 - 🎓 Ph.D. Registered Candidate at SR University
 - 👨‍🏫 Assistant Professor at Sphoorthy Engineering College
 - 💻 Academic background in Computer Science and Engineering
 - 🔐 Interested in Cloud Cybersecurity and AI-driven security systems
-- 📚 Passionate about teaching and sharing technical knowledge
+- 📚 Passionate about teaching, learning, and sharing technical knowledge
 
 ---
 
-## 🎓 Education
+## 🎓 Educational Qualification
 
 | Qualification | Institution | Year | Percentage |
-|---|---|---|---|
+|---|---|---:|---:|
 | Ph.D. (Registered) | SR University | Pursuing | — |
 | M.Tech (Computer Science) | Sreedattha Institute of Engineering and Science | 2014 | 67% |
 | B.Tech (Computer Science) | Hasvita Institute of Engineering and Technology | 2012 | 58% |
@@ -41,13 +43,15 @@ I am interested in emerging technologies, particularly Cloud Cybersecurity and A
 
 ## 💼 Teaching Experience
 
-**Sphoorthy Engineering College**
-- Designation: Assistant Professor
-- Duration: August 2024 – Present
+### Sphoorthy Engineering College
+**Assistant Professor**
 
-**KPRIT College**
-- Designation: Assistant Professor
-- Duration: 2015 – June 2024
+August 2024 – Present
+
+### KPRIT College
+**Assistant Professor**
+
+2015 – June 2024
 
 ---
 
@@ -59,7 +63,7 @@ I am interested in emerging technologies, particularly Cloud Cybersecurity and A
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Database](https://img.shields.io/badge/DBMS-6C3483?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-6C3483?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
@@ -68,25 +72,27 @@ I am interested in emerging technologies, particularly Cloud Cybersecurity and A
 
 ## 📚 Teaching Subjects
 
-- Web Technology
-- Computer Networks
-- Software Engineering
-- Software Testing Methodology
-- Information Retrieval System
-- Cryptography and Network Security
-- Blockchain Technology
-- Data Mining
-- Data Structures
-- Database Management Systems
-- Knowledge Representation and Reasoning
+| No. | Subject |
+|---:|---|
+| 01 | Web Technology |
+| 02 | Computer Networks |
+| 03 | Software Engineering |
+| 04 | Software Testing Methodology |
+| 05 | Information Retrieval System |
+| 06 | Cryptography and Network Security |
+| 07 | Blockchain Technology |
+| 08 | Data Mining |
+| 09 | Data Structures |
+| 10 | Database Management Systems |
+| 11 | Knowledge Representation and Reasoning |
 
 ---
 
 ## 🔬 Patent Details
 
-**1. AI-Driven Incident Response Framework for Cloud Cybersecurity**
+**01. AI-Driven Incident Response Framework for Cloud Cybersecurity**
 
-**2. Real-Time Cloud Incident Response Using Machine Learning for Enhanced Threat Detection and Malware Analysis**
+**02. Real-Time Cloud Incident Response Using Machine Learning for Enhanced Threat Detection and Malware Analysis**
 
 ---
 
@@ -110,8 +116,10 @@ I am interested in emerging technologies, particularly Cloud Cybersecurity and A
 
 <div align="center">
 
-### Thank you for visiting my profile!
+### Thank You for Visiting My Profile!
 
-*Keep Learning · Keep Teaching · Keep Innovating*
+**Learn · Teach · Innovate**
+
+*Keep Learning. Keep Growing. Keep Innovating.*
 
 </div>
